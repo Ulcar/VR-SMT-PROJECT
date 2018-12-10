@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4495693d634272945bd8814d6d54bcc0, type: 3}
+  m_Name: Demi Fiend lol
+  m_EditorClassIdentifier: 
+  CharacterName: 
+  skills:
+  - {fileID: 11400000, guid: 7166a6bb0fa38274591bd5ddccc79f98, type: 2}
+  - {fileID: 11400000, guid: 7166a6bb0fa38274591bd5ddccc79f98, type: 2}
+  exp: 0
+  level: 100
+  HP: 0
+  strength: 0
+  dex: 0
+  mag: 0
+  luck: 0
